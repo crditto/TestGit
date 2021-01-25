@@ -1,6 +1,4 @@
-
-Goodbye
 Hello World
+Goodbye
 See you later!
-Welcome 
-back!!
+Welcome back. :)
